@@ -69,13 +69,21 @@ Always Remember That The First Step Is To Push Power Button Of The CPU Than The 
 ## PROCEDURE:
 
 1.Open The Case
+
 2.Install The Power Supply
+
 3.Attach The Components To The Motherboard
+
 4.Install The Motherboard
+
 5.Install Internal Drives
+
 6.Connect All Internal Cables
+
 7.Install Motherboard Power Connections
+
 8.Connect External Cables To TheComputer
+
 9.Boot The Computer For The First Time.
 
 
